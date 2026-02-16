@@ -179815,6 +179815,8 @@ entities:
     - type: Transform
       pos: -7.3042555,16.805103
       parent: 2
+    - type: BallisticAmmoProvider
+      proto: null
 - proto: WeaponShotgunKammerer
   entities:
   - uid: 20295

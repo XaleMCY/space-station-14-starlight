@@ -192686,6 +192686,8 @@ entities:
     - type: Transform
       pos: -30.441528,16.41391
       parent: 2
+    - type: BallisticAmmoProvider
+      proto: null
 - proto: WeaponShotgunRiot
   entities:
   - uid: 31108
